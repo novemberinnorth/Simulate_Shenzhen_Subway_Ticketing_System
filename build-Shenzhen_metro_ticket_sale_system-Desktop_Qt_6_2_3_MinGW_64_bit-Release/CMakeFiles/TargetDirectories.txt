@@ -1,9 +1,0 @@
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/Shenzhen_metro_ticket_sale_system.dir
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/install.dir
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/install/local.dir
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/Shenzhen_metro_ticket_sale_system_autogen_timestamp_deps.dir
-C:/Users/November in North/Desktop/miscellaneous/My_Qt/build-Shenzhen_metro_ticket_sale_system-Desktop_Qt_6_2_3_MinGW_64_bit-Release/CMakeFiles/Shenzhen_metro_ticket_sale_system_autogen.dir
