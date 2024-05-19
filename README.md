@@ -15,11 +15,13 @@ line.cpp主要计算线路方案（尤其是不同线路的始末站时涉及的
 利用Enigma Virtual Box打包好的程序，可单独下载运行，无需额外安装  
 
 基本界面运行展示：  
-![图片1](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/557bd816-3df9-4ad7-bb1b-72c2bbd4a3fc)  
-![图片2](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/9dca32c6-50cf-48b3-957d-d4942160e518)  
-![图片3](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/e1a63316-1edb-4866-8a5c-8de78ccc8c66)  
-![图片4](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/b9fd6c3f-0264-4504-9c8f-62bfd7b2ef5c)  
-![图片5](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/3a91666a-ffbb-4655-8e5a-fb2c5e44fe6b)  
+<img width="452" alt="欢迎" src="https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/b51644f9-bbc8-4ec2-bc69-7fae820cc0e4">  
+<img width="1083" alt="屏幕截图 2023-12-27 160926" src="https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/cefae402-4cdb-4011-94f2-cd2185ae67c4">  
+<img width="1083" alt="屏幕截图 2023-12-27 160727" src="https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/adae1774-cad5-44e4-8d90-062761fa8abc">  
+<img width="678" alt="屏幕截图 2023-12-27 191908" src="https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/7c4f0cff-7588-4656-a10a-2dc1b04cab6a">  
+<img width="678" alt="屏幕截图 2023-12-27 192005" src="https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/cb07115a-f15e-434b-8853-bd250314c577">  
+<img width="678" alt="屏幕截图 2023-12-27 191934" src="https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/65696b34-13e0-4fd7-a7dc-49b6125fef34">  
+
 地图左上角有帮助文档，内容如下：  
 <h2>帮助</h2>
 <h3>选站界面</h3>
