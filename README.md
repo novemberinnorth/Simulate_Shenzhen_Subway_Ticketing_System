@@ -3,15 +3,15 @@
 更新：里面的价格计算仅供参考（图一乐），相同始末站不会有多种价格，可以理解成价格越贵经过站数越多；  
 程序尚有未知bug，等我挑个良辰吉日再改（  
 ### 主要文件说明  
-#### *Shenzhen_metro_ticket_sale_system  
+#### * Shenzhen_metro_ticket_sale_system  
 包括两张背景图片文件和所有界面的.h, .cpp, .ui文件  
 注意：所有站点的中英文名称对照表、换乘站可换乘线路矩阵及线路颜色代码位于map.h和line.h中；  
 map.cpp主要基于用户交互控制ui组件（控制地图和所有按钮同轴缩放、滑动条缩放等），并绑定站点英文名称和按钮编号；  
 line.cpp主要计算线路方案（尤其是不同线路的始末站时涉及的广优搜索）和基于方案绘图；  
 其余文件内容相对简单，参见代码注释即可  
-#### *Shenzhen_metro_ticket_sale_system_v1  
+#### * Shenzhen_metro_ticket_sale_system_v1  
 利用qt release生成的依赖文件包  
-#### *Shenzhen_metro_ticket_sale_system_v1.exe  
+#### * Shenzhen_metro_ticket_sale_system_v1.exe  
 利用Enigma Virtual Box打包好的程序，可单独下载运行，无需额外安装  
 
 基本界面运行展示：  
