@@ -13,6 +13,7 @@ line.cpp主要计算线路方案（尤其是不同线路的始末站时涉及的
 利用qt release生成的依赖文件包  
 #### Shenzhen_metro_ticket_sale_system_v1.exe  
 利用Enigma Virtual Box打包好的程序，可单独下载运行，无需额外安装  
+
 基本界面运行展示：  
 ![图片1](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/557bd816-3df9-4ad7-bb1b-72c2bbd4a3fc)  
 ![图片2](https://github.com/novemberinnorth/Simulate_Shenzhen_Subway_Ticketing_System/assets/138506109/9dca32c6-50cf-48b3-957d-d4942160e518)  
