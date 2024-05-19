@@ -1,7 +1,7 @@
 # Simulate_Shenzhen_Subway_Ticketing_System
 ### 使用c++ qt6实现图形化的模拟深圳地铁自动售票系统。  
 更新：里面的价格计算仅供参考（图一乐），相同始末站不会有多种价格；程序尚有未知bug，等我挑个良辰吉日再改（  
-### 文件说明  
+### 主要文件说明  
 #### Shenzhen_metro_ticket_sale_system  
 包括两张背景图片文件和所有界面的.h, .cpp, .ui文件  
 注意：所有站点的中英文名称对照表、换乘站可换乘线路矩阵及线路颜色代码位于map.h和line.h中；  
